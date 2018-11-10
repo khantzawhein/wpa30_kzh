@@ -1,5 +1,4 @@
 <?php 
-
 define("DD", "../");
 require DD . "wpa30/functions.php";
 require DD . "app/controllers/controllers.php";
